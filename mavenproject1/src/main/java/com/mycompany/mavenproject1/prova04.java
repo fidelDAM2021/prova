@@ -18,6 +18,9 @@ public class prova04 {
         // TODO code application logic here
         System.out.println("Hola, mundo");
         System.out.println("===========");
+        // estem estudiant passar el missatge a valencià
+        System.out.println("Hola, món");
+        System.out.println("===========");
     }
     
 }
