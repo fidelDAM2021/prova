@@ -16,11 +16,8 @@ public class prova04 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Hola, mundo");
-        System.out.println("===========");
-        // Estem plantejant fer-lo en valencià
-        // System.out.println("Hola, món");
-        // System.out.println("=========");
+        System.out.println("Hola, món");
+        System.out.println("=========");
     }
     
 }
