@@ -21,6 +21,8 @@ public class prova04 {
         // Estem plantejant fer-lo en valencià
         // System.out.println("Hola, món");
         // System.out.println("=========");
+        System.out.println("Estic fent unes proves en Java");
+        System.out.println("Però encara no vull guardar-les en la versió principal");
     }
     
 }
